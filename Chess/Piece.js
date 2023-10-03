@@ -12,7 +12,7 @@ class Piece {
     this.value = 0;
   }
 
-  //needs to extend these
+  //needs to extend these for better
   show() {
     if (!this.taken) {
 
